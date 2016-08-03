@@ -1,0 +1,27 @@
+{
+  "name": "fis-preprocessor-replace-file",
+  "version": "0.0.1",
+  "description": "Replace File",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Replace File"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhengjiaqi/fis-preprocessor-replace-file"
+  },
+  "author": {
+    "name": "971682460@qq.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/zhengjiaqi/fis-preprocessor-replace-file"
+  }
+}
